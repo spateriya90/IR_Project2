@@ -1,0 +1,55 @@
+GetPostings
+afskrivning
+Postings list: 5 13 21 25 31
+GetPostings
+amtssparekas
+Postings list: 25 27
+TaatAnd
+afskrivning amtssparekas
+Results: 25
+Number of documents in results: 1
+Number of comparisons: 9
+TaatOr
+afskrivning amtssparekas
+Results: 5 13 21 25 27 31
+Number of documents in results: 6
+Number of comparisons: 7
+DaatAnd
+afskrivning amtssparekas
+Results: 25
+Number of documents in results: 1
+Number of comparisons: 4
+DaatOr
+afskrivning amtssparekas
+Results: 5 13 21 25 27 31
+Number of documents in results: 6
+Number of comparisons: 11
+GetPostings
+оротуканск
+Postings list: 33537 33543 33546 34629
+GetPostings
+ороша
+Postings list: 35725 38999 40260 40362 43196
+GetPostings
+орошен
+Postings list: 38121 42068 44418
+TaatAnd
+оротуканск ороша орошен
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 8
+TaatOr
+оротуканск ороша орошен
+Results: 33537 33543 33546 34629 35725 38121 38999 40260 40362 42068 43196 44418
+Number of documents in results: 12
+Number of comparisons: 17
+DaatAnd
+оротуканск ороша орошен
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 8
+DaatOr
+оротуканск ороша орошен
+Results: 33537 33543 33546 34629 35725 38121 38999 40260 40362 42068 43196 44418
+Number of documents in results: 12
+Number of comparisons: 25
